@@ -1,0 +1,2 @@
+2019.10.27 - 11:42:06: first approach. Not taking any text atts. Random forest.
+2019.10.27 - 11:44:24: first approach. Not taking any text atts. Random forest.
