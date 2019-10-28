@@ -2,3 +2,5 @@ jupyterlab
 
 pandas
 scikit-learn
+
+matplotlib
