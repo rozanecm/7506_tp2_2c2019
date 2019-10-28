@@ -2,3 +2,4 @@
 2019.10.27 - 11:44:24: first approach. Not taking any text atts. Random forest.
 2019.10.28 - 09:12:00: repeat first approach. This time, train with all the data. On previous runs, I trianed only with X_test, which is a part of the whole given train set.
 2019.10.28 - 12:03:46: Second approach. Same as previous, but adding categorical features with one hot encoding + svd dim. red., to 11 dimensions in the small cases, and to 100 in the larger one. Algorithm is same as previously.
+2019.10.28 - 14:40:22: Third approach. Same as previous, but adding text features with one hashing vectorizer + svd dim. red. Algorithm is same as previously.
