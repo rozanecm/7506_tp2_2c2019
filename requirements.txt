@@ -2,5 +2,9 @@ jupyterlab
 
 pandas
 scikit-learn
+stop-words
 
 matplotlib
+
+lightgbm
+catboost
