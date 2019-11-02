@@ -6,3 +6,9 @@
 2019.10.28 - 16:36:13: 4th approach. Same as previous, but adding spanish stopwords.
 2019.10.29 - 11:59:35: 7th approach. LightGBM
 2019.10.29 - 13:19:02: 8th approach. LightGBM with grid search.
+2019.10.31 - 20:26:47: 1st approach with feat. eng.. LightGBM with grid search.
+2019.11.01 - 00:32:25: 2nd approach with feat. eng. catboost with grid search.
+2019.11.02 - 12:49:38: 3rd approach with feat. eng. LightGBM with grid search done locally.
+2019.11.02 - 13:26:01: 3rd approach with feat. eng. LightGBM with grid search done locally, now done with 2000 samples from train set.
+2019.11.02 - 14:42:20: 3rd approach with feat. eng. LightGBM with grid search done locally, now done with all train set.
+2019.11.02 - 17:01:06: 4th approach with feat. eng. and feature selection via random forest. LightGBM with grid search done locally.
