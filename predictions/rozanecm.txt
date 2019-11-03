@@ -12,3 +12,4 @@
 2019.11.02 - 13:26:01: 3rd approach with feat. eng. LightGBM with grid search done locally, now done with 2000 samples from train set.
 2019.11.02 - 14:42:20: 3rd approach with feat. eng. LightGBM with grid search done locally, now done with all train set.
 2019.11.02 - 17:01:06: 4th approach with feat. eng. and feature selection via random forest. LightGBM with grid search done locally.
+2019.11.03 - 10:46:24: Avg of the best approaches (the ones with score < 600000)
