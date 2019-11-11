@@ -5,3 +5,5 @@ venv/
 data/train.csv
 data/test.csv
 data/ejemploRespuesta.csv
+
+*.swp
