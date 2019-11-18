@@ -17,3 +17,4 @@
 2019.11.07 - 19:23:53: 11th approach. LightGBM with filled nans and new grid search.
 2019.11.11 - 09:33:40: Avg of the 6 best approaches hasta la fecha (the ones with score < 600000)
 2019.11.11 - 13:07:13: 10th approach. Catboost with grid search.
+2019.11.13 - 01:43:02: 11th approach. SVM: LinearSVR with grid search.
