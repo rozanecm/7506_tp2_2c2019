@@ -5,6 +5,8 @@ scikit-learn
 stop-words
 
 matplotlib
+seaborn
 
 lightgbm
 catboost
+xgboost
