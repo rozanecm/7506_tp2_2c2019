@@ -1,2 +1,4 @@
 2019.11.04 - 02:46:22: 1st approach. XGBoost
 2019.11.06 - 22:26:05: 1st approach_2. XGBoost
+2019.11.23 - 17:43:08: 1st approach_3_with_desc_features. XGBoost
+2019.11.24 - 17:31:31: 1st approach_4_only_corr_features. XGBoost
