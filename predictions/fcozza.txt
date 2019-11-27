@@ -8,3 +8,4 @@
 2019.11.27 - 02:14:16: 2nd approach. LightGBM previous grid search. Log(precio) y features descripcion
 2019.11.27 - 02:26:27: 3rd approach. Promedio entre xgboost y lightgbm
 2019.11.27 - 03:46:58: 2.1 approach. LightGBM with new grid search for new features of desc. Log(precio)
+2019.11.27 - 20:18:54: 4th approach. Red neuronal con Keras
