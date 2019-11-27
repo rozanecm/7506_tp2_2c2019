@@ -2,3 +2,9 @@
 2019.11.06 - 22:26:05: 1st approach_2. XGBoost
 2019.11.23 - 17:43:08: 1st approach_3_with_desc_features. XGBoost
 2019.11.24 - 17:31:31: 1st approach_4_only_corr_features. XGBoost
+2019.11.26 - 12:09:11: 1st approach_full_features. XGBoost
+2019.11.26 - 14:36:10: 1st approach_full_features. XGBoost con one hot
+2019.11.27 - 01:34:19: 1st approach_full_features. XGBoost with tunning parameters
+2019.11.27 - 02:14:16: 2nd approach. LightGBM previous grid search. Log(precio) y features descripcion
+2019.11.27 - 02:26:27: 3rd approach. Promedio entre xgboost y lightgbm
+2019.11.27 - 03:46:58: 2.1 approach. LightGBM with new grid search for new features of desc. Log(precio)
