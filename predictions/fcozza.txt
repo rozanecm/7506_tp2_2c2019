@@ -12,3 +12,5 @@
 2019.11.27 - 23:51:36: 5th approach. Catboost con mas features y log precio
 2019.11.28 - 00:25:43: 1st approach_full_features. XGBoost with tunning parameters with missing column of feat desc
 2019.11.28 - 00:40:14: 2nd approach. LightGBM previous grid search. Log(precio) y features descripcion con la columna faltante
+2019.11.29 - 00:35:09: Stacking approach with all targets
+2019.11.29 - 00:51:22: Stacking approach with selected targets
