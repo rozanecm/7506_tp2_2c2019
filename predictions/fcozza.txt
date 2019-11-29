@@ -14,3 +14,4 @@
 2019.11.28 - 00:40:14: 2nd approach. LightGBM previous grid search. Log(precio) y features descripcion con la columna faltante
 2019.11.29 - 00:35:09: Stacking approach with all targets
 2019.11.29 - 00:51:22: Stacking approach with selected targets
+2019.11.29 - 02:16:43: Stacking apporach with all targets with grid search
